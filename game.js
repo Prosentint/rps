@@ -75,3 +75,5 @@ var reset = function() {
 	document.getElementById("wins").innerHTML=wins;
 	document.getElementById("loses").innerHTML=loses;
 };
+
+// This is a git test
